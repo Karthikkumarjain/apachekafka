@@ -2,7 +2,7 @@
 
 ### Prerequisite
     * Install Kafka from official page -https://kafka.apache.org/downloads
-    * Instal Confluent Kafka from confluence.io -https://www.confluent.io/installation/
+    * Instal Confluent Kafka from official page -https://www.confluent.io/installation/
     * Install Offset Explorer
 
 
