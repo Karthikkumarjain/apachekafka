@@ -66,6 +66,10 @@ bin/kafka-console-producer --broker-list localhost:9092 --topic NewTopic1
 
 bin/kafka-console-consumer --bootstrap-server localhost:9092 --topic NewTopic1 --from-beginning 
 
+# Default Port (Good to check once in terminal)
+zookeeper =2181
+Kafka server = 9092
+
 * Send CSV File data to kafka
 
 bin/kafka-console-producer --broker-list localhost:9092 --topic NewTopic1 <bin/customers.csv
