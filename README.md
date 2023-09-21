@@ -1,6 +1,6 @@
 # Run Kafka in CLI
 
-### Pre-requsite
+### Prerequisite
     * Install Kafka from official page
     * Instal Confluent Kafka from confluence.io
     * Install Offset Explorer
