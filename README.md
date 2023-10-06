@@ -1,4 +1,4 @@
-# Run Kafka in CLI
+# Installation of Apache Kafka | Run Kafka in CLI
 
 ### Prerequisite
     * Install Kafka from official page -https://kafka.apache.org/downloads
